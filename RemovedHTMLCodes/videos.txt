@@ -1,0 +1,9 @@
+<!-- <div class="video-w3l" data-vide-bg="video/3">
+		<h5>Save Trees, Clean Environment, Healthy Thinking, Happy Life & Green Earth</h5>
+		<a href="#small-dialog4" class="play-icon popup-with-zoom-anim ">
+			<i class="fa fa-play-circle-o" aria-hidden="true"></i>
+		</a>
+		<div id="small-dialog4" class="mfp-hide w3ls_small_dialog wthree_pop">
+			<iframe src="https://player.vimeo.com/video/19251347"></iframe>
+		</div>
+	</div> -->
